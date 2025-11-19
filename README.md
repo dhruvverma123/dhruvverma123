@@ -34,4 +34,8 @@
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvverma123&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvverma123&theme=radical)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvverma123&layout=compact&theme=radical)
+
+
