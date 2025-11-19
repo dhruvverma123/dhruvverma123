@@ -32,6 +32,6 @@
 
 ## 📊 GitHub Stats:
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-verma12&show_icons=true&theme=radical)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvverma123&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-verma12&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvverma123&layout=compact&theme=radical)
