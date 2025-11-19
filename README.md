@@ -1,5 +1,4 @@
 ## Hi! I'm Dhruv Verma, a MERN stack enthusiast.
----
 
 🔥 Full-stack creativity in action — from building real room-booking platforms to interactive browser games!
 💻 Currently sharpening my MERN stack skills and crafting projects that solve real-world problems.
@@ -8,12 +7,10 @@
 🎧 Built fun projects like a Spotify Clone & Simon Says Game — because learning should be exciting!
 
 ## 🌐 Socials:
----
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruv-verma12)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR_YOUTUBE_LINK](https://www.youtube.com/@DhruvEdits33))
 
 ## 💻 Tech Stack:
----
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
