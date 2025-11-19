@@ -29,3 +29,9 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-verma12&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-verma12&layout=compact&theme=radical)
